@@ -7,8 +7,8 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'networklib'
-  s.version          = '0.0.1'
+  s.name             = 'networklibTest'
+  s.version          = '0.0.2'
   s.summary          = 'Network Library'
 
 # This description is used to generate tags and improve search results.
