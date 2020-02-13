@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 Network library for iOS.
                        DESC
 
-  s.homepage         = 'https://github.com/shahidlatif2005@gmail.com/networklib'
+  s.homepage         = 'https://github.com/uaeiosdevs/mnetworking'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'shahidlatif2005@gmail.com' => 's.latif@mohre.gov.ae' }
-  s.source           = { :git => 'https://github.com/shahidlatif2005@gmail.com/networklib.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/uaeiosdevs/mnetworking.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
