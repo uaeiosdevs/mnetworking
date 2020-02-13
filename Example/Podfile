@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'networklib_Example' do
+  pod 'networklib', :path => '../'
+
+  target 'networklib_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
