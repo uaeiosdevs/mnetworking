@@ -24,7 +24,7 @@ Network library for iOS.
   s.homepage         = 'https://github.com/uaeiosdevs/mnetworking'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'shahidlatif2005@gmail.com' => 's.latif@mohre.gov.ae' }
+  s.author           = { 'Shahid Latif' => 'uaeiosdevs@gmail.com' }
   s.source           = { :git => 'https://github.com/uaeiosdevs/mnetworking.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
